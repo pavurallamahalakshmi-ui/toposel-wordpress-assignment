@@ -58,4 +58,8 @@ Mahalakshmi Pavuralla
 
 - PHP, HTML, CSS
 
-## File Structure
+File Structure
+toposel-wordpress-assignment/
+├── front-page.php      # Homepage template with ACF fields
+├── style.css           # Mobile-first CSS styles
+└── README.md           # This file
