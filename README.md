@@ -62,4 +62,7 @@ File Structure
 toposel-wordpress-assignment/
 ├── front-page.php      # Homepage template with ACF fields
 ├── style.css           # Mobile-first CSS styles
+├── functions.php       # Theme functions (ACF support)
+├── header.php          # Site header template
+├── footer.php          # Site footer template
 └── README.md           # This file
